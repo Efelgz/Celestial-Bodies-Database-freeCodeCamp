@@ -26,6 +26,3 @@ To reconstruct the database on your local machine, you need to have PostgreSQL i
 
 ```bash
 psql -U postgres < universe.sql
-
-Author
-Efe Ilgaz Köksal
